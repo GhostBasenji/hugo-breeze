@@ -1,4 +1,4 @@
-# 🐕 Минималистическая тема Hugo. Она является портом темы [astro-theme-breeze](https://github.com/linftyz/astro-theme-breeze).
+Минималистическая тема Hugo. Она является портом темы [astro-theme-breeze](https://github.com/linftyz/astro-theme-breeze).
 
 ---
 
